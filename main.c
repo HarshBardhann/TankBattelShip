@@ -15,7 +15,7 @@
 #define MAGENTA "\033[35m"
 #define RESET "\033[0m"
 
-// Game settings
+// Game setting
 #define WIDTH 30
 #define HEIGHT 15
 #define MAX_BULLETS 5
