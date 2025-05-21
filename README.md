@@ -58,7 +58,7 @@ A fast-paced, real-time terminal-based Tank BattleShip game built from scratch i
 
 ## 🎮 Gameplay Preview
 
-*(Add GIFs or screenshots here)*
+UPDATING SOON.....!!!
 
 ---
 
