@@ -51,7 +51,7 @@ A fast-paced, real-time terminal-based Tank BattleShip game built from scratch i
 
 ## 👥 Team
 
-- [Tanvi Jamwal](#)
+- [Tanvi Jamwal](https://github.com/HarshBardhann/)
 - [Harsh Bardhan](#)
 
 ---
