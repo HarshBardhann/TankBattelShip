@@ -65,5 +65,5 @@ UPDATING SOON.....!!!
 ## 📂 How to Run
 
 ```bash
-gcc fast.c -o tank_game
+gcc main.c -o tank_game
 ./tank_game
